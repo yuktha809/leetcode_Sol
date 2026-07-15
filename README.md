@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/yuktha809/leetcode_Sol/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/yuktha809/leetcode_Sol/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/yuktha809/leetcode_Sol/tree/master/0189-rotate-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/yuktha809/leetcode_Sol/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
 | ------- |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/yuktha809/leetcode_Sol/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/yuktha809/leetcode_Sol/tree/master/0704-binary-search) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/yuktha809/leetcode_Sol/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
