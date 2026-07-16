@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/yuktha809/leetcode_Sol/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/yuktha809/leetcode_Sol/tree/master/0189-rotate-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yuktha809/leetcode_Sol/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/yuktha809/leetcode_Sol/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/yuktha809/leetcode_Sol/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/yuktha809/leetcode_Sol/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yuktha809/leetcode_Sol/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/yuktha809/leetcode_Sol/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/yuktha809/leetcode_Sol/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/yuktha809/leetcode_Sol/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yuktha809/leetcode_Sol/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/yuktha809/leetcode_Sol/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/yuktha809/leetcode_Sol/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/yuktha809/leetcode_Sol/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/yuktha809/leetcode_Sol/tree/master/0229-majority-element-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/yuktha809/leetcode_Sol/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -81,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/yuktha809/leetcode_Sol/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yuktha809/leetcode_Sol/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/yuktha809/leetcode_Sol/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union-Find
 |  |
 | ------- |
@@ -101,4 +106,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yuktha809/leetcode_Sol/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/yuktha809/leetcode_Sol/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
