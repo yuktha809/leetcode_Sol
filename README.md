@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/yuktha809/leetcode_Sol/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/yuktha809/leetcode_Sol/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/yuktha809/leetcode_Sol/tree/master/0189-rotate-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/yuktha809/leetcode_Sol/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yuktha809/leetcode_Sol/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yuktha809/leetcode_Sol/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/yuktha809/leetcode_Sol/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/yuktha809/leetcode_Sol/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yuktha809/leetcode_Sol/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3312-sorted-gcd-pair-queries](https://github.com/yuktha809/leetcode_Sol/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yuktha809/leetcode_Sol/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/yuktha809/leetcode_Sol/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/yuktha809/leetcode_Sol/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/yuktha809/leetcode_Sol/tree/master/0229-majority-element-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/yuktha809/leetcode_Sol/tree/master/3312-sorted-gcd-pair-queries) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/yuktha809/leetcode_Sol/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/yuktha809/leetcode_Sol/tree/master/0229-majority-element-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/yuktha809/leetcode_Sol/tree/master/3312-sorted-gcd-pair-queries) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -106,9 +110,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yuktha809/leetcode_Sol/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yuktha809/leetcode_Sol/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/yuktha809/leetcode_Sol/tree/master/0704-binary-search) |
+| [3312-sorted-gcd-pair-queries](https://github.com/yuktha809/leetcode_Sol/tree/master/3312-sorted-gcd-pair-queries) |
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/yuktha809/leetcode_Sol/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yuktha809/leetcode_Sol/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yuktha809/leetcode_Sol/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/yuktha809/leetcode_Sol/tree/master/3312-sorted-gcd-pair-queries) |
+## Prefix Sum
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/yuktha809/leetcode_Sol/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
