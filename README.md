@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/yuktha809/leetcode_Sol/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/yuktha809/leetcode_Sol/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/yuktha809/leetcode_Sol/tree/master/0189-rotate-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/yuktha809/leetcode_Sol/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/yuktha809/leetcode_Sol/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yuktha809/leetcode_Sol/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yuktha809/leetcode_Sol/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/yuktha809/leetcode_Sol/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yuktha809/leetcode_Sol/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/yuktha809/leetcode_Sol/tree/master/0704-binary-search) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/yuktha809/leetcode_Sol/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yuktha809/leetcode_Sol/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3312-sorted-gcd-pair-queries](https://github.com/yuktha809/leetcode_Sol/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yuktha809/leetcode_Sol/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/yuktha809/leetcode_Sol/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/yuktha809/leetcode_Sol/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yuktha809/leetcode_Sol/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yuktha809/leetcode_Sol/tree/master/3867-sum-of-gcd-of-formed-pairs) |
