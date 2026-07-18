@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/yuktha809/leetcode_Sol/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yuktha809/leetcode_Sol/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/yuktha809/leetcode_Sol/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/yuktha809/leetcode_Sol/tree/master/0875-koko-eating-bananas) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yuktha809/leetcode_Sol/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yuktha809/leetcode_Sol/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3312-sorted-gcd-pair-queries](https://github.com/yuktha809/leetcode_Sol/tree/master/3312-sorted-gcd-pair-queries) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/yuktha809/leetcode_Sol/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yuktha809/leetcode_Sol/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/yuktha809/leetcode_Sol/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/yuktha809/leetcode_Sol/tree/master/0875-koko-eating-bananas) |
 | [3312-sorted-gcd-pair-queries](https://github.com/yuktha809/leetcode_Sol/tree/master/3312-sorted-gcd-pair-queries) |
 ## Number Theory
 |  |
