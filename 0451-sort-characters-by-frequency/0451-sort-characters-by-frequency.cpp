@@ -5,7 +5,7 @@ public:
         for(char ch:s){
             freq[ch]++;
         }
-        priority_queue<pair<int,char>>pq;
+        priority_queue<pair<int,char>> pq;
         for(auto i:freq){
             pq.push({i.second,i.first});
         }
@@ -17,6 +17,5 @@ public:
             ans.append(count,ch);
         }
         return ans;
-
     }
 };
