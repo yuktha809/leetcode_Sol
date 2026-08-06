@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/yuktha809/leetcode_Sol/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/yuktha809/leetcode_Sol/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/yuktha809/leetcode_Sol/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/yuktha809/leetcode_Sol/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/yuktha809/leetcode_Sol/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/yuktha809/leetcode_Sol/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yuktha809/leetcode_Sol/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/yuktha809/leetcode_Sol/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/yuktha809/leetcode_Sol/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/yuktha809/leetcode_Sol/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/yuktha809/leetcode_Sol/tree/master/0451-sort-characters-by-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/yuktha809/leetcode_Sol/tree/master/3312-sorted-gcd-pair-queries) |
 ## Divide and Conquer
 |  |
@@ -100,12 +102,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/yuktha809/leetcode_Sol/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/yuktha809/leetcode_Sol/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/yuktha809/leetcode_Sol/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/yuktha809/leetcode_Sol/tree/master/0451-sort-characters-by-frequency) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yuktha809/leetcode_Sol/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yuktha809/leetcode_Sol/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/yuktha809/leetcode_Sol/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/yuktha809/leetcode_Sol/tree/master/0451-sort-characters-by-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/yuktha809/leetcode_Sol/tree/master/3312-sorted-gcd-pair-queries) |
 ## Dynamic Programming
 |  |
@@ -190,4 +194,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/yuktha809/leetcode_Sol/tree/master/0796-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/yuktha809/leetcode_Sol/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/yuktha809/leetcode_Sol/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
