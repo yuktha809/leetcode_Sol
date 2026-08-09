@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/yuktha809/leetcode_Sol/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/yuktha809/leetcode_Sol/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/yuktha809/leetcode_Sol/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/yuktha809/leetcode_Sol/tree/master/0125-valid-palindrome) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/yuktha809/leetcode_Sol/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/yuktha809/leetcode_Sol/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/yuktha809/leetcode_Sol/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/yuktha809/leetcode_Sol/tree/master/0125-valid-palindrome) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/yuktha809/leetcode_Sol/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/yuktha809/leetcode_Sol/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yuktha809/leetcode_Sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/yuktha809/leetcode_Sol/tree/master/0152-maximum-product-subarray) |
@@ -206,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/yuktha809/leetcode_Sol/tree/master/0451-sort-characters-by-frequency) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/yuktha809/leetcode_Sol/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
