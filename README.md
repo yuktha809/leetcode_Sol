@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yuktha809/leetcode_Sol/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/yuktha809/leetcode_Sol/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/yuktha809/leetcode_Sol/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/yuktha809/leetcode_Sol/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/yuktha809/leetcode_Sol/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/yuktha809/leetcode_Sol/tree/master/0141-linked-list-cycle) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/yuktha809/leetcode_Sol/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/yuktha809/leetcode_Sol/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yuktha809/leetcode_Sol/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/yuktha809/leetcode_Sol/tree/master/0206-reverse-linked-list) |
