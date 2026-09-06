@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/yuktha809/leetcode_Sol/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/yuktha809/leetcode_Sol/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/yuktha809/leetcode_Sol/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/yuktha809/leetcode_Sol/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/yuktha809/leetcode_Sol/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/yuktha809/leetcode_Sol/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/yuktha809/leetcode_Sol/tree/master/1922-count-good-numbers) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/yuktha809/leetcode_Sol/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/yuktha809/leetcode_Sol/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/yuktha809/leetcode_Sol/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/yuktha809/leetcode_Sol/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/yuktha809/leetcode_Sol/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/yuktha809/leetcode_Sol/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yuktha809/leetcode_Sol/tree/master/0240-search-a-2d-matrix-ii) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/yuktha809/leetcode_Sol/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yuktha809/leetcode_Sol/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/yuktha809/leetcode_Sol/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yuktha809/leetcode_Sol/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/yuktha809/leetcode_Sol/tree/master/0204-count-primes) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/yuktha809/leetcode_Sol/tree/master/3499-maximize-active-section-with-trade-i) |
 ## String Matching
 |  |
@@ -296,4 +300,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/yuktha809/leetcode_Sol/tree/master/0022-generate-parentheses) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/yuktha809/leetcode_Sol/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/yuktha809/leetcode_Sol/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/yuktha809/leetcode_Sol/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
