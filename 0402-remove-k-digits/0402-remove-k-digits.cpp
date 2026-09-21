@@ -3,7 +3,7 @@ public:
     string removeKdigits(string num, int k) {
         string s;
         for(char n:num){
-            while(!s.empty() && k>0 && s.back()>n){
+            while(!s.empty()&& k>0 && s.back()>n){
                 s.pop_back();
                 k--;
             }
