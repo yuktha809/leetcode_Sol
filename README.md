@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/yuktha809/leetcode_Sol/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yuktha809/leetcode_Sol/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/yuktha809/leetcode_Sol/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/yuktha809/leetcode_Sol/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/yuktha809/leetcode_Sol/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yuktha809/leetcode_Sol/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/yuktha809/leetcode_Sol/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/yuktha809/leetcode_Sol/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/yuktha809/leetcode_Sol/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yuktha809/leetcode_Sol/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yuktha809/leetcode_Sol/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union-Find
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/yuktha809/leetcode_Sol/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/yuktha809/leetcode_Sol/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/yuktha809/leetcode_Sol/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/yuktha809/leetcode_Sol/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/yuktha809/leetcode_Sol/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yuktha809/leetcode_Sol/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
