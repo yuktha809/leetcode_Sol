@@ -16,32 +16,30 @@ public:
         queue<pair<TreeNode*,pair<int,int>>> q;
         q.push({root,{0,0}});
         while(!q.empty()){
-            auto p = q.front();
-            q.pop();
-            TreeNode* node = p.first;
-            int row = p.second.first;
-            int col = p.second.second;
+           auto p = q.front();
+           q.pop();
+           TreeNode* node = p.first;
+           int row = p.second.first;
+           int col = p.second.second;
 
-            mp[col][row].insert(node->val);
-            if(node->left){
-                q.push({node->left,{row+1,col-1}});
-            }
-            if(node->right){
-                q.push({node->right,{row+1,col+1}});
-            }
+           mp[col][row].insert(node->val);
+           if(node->left){
+            q.push({node->left,{row+1,col-1}});
+           }
+           if(node->right){
+            q.push({node->right,{row+1,col+1}});
+           }
         }
-            vector<vector<int>> ans;
-            for(auto col:mp){
-                vector<int> temp;
-                for(auto row:col.second){
-                    for(auto val:row.second){
-                        temp.push_back(val);
-                    }
-
+        vector<vector<int>> ans;
+        for(auto col : mp){
+            vector<int> temp;
+            for(auto row: col.second){
+                for(auto val:row.second){
+                    temp.push_back(val);
                 }
-                ans.push_back(temp);
             }
-        
+            ans.push_back(temp);
+        }
         return ans;
     }
 };
