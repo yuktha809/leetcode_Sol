@@ -13,18 +13,16 @@ class Solution {
 public:
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
         unordered_map<int,int> mp;
-        for(int i = 0;i<inorder.size();i++){
-            mp[inorder[i]]=i;
-
+        for(int i =0;i<inorder.size();i++){
+            mp[inorder[i]] = i;
         }
-        int preInd=0;
+        int preInd = 0;
         return build(preorder,preInd,0,inorder.size()-1,mp);
-
     }
     TreeNode* build(vector<int>& preorder,int& preInd,int left,int right,unordered_map<int,int>& mp){
         if(left>right) return NULL;
         TreeNode* root = new TreeNode(preorder[preInd++]);
-        int inVal =mp[root->val];
+        int inVal = mp[root->val];
         root->left = build(preorder,preInd,left,inVal-1,mp);
         root->right = build(preorder,preInd,inVal+1,right,mp);
         return root;
