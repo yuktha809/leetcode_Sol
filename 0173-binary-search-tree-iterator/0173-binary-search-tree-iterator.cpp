@@ -11,7 +11,7 @@
  */
 class BSTIterator {
 public:
-stack<TreeNode*> st;
+stack<TreeNode* > st;
     BSTIterator(TreeNode* root) {
         pushLeft(root);
     }
