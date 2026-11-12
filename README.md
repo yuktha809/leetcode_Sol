@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/yuktha809/leetcode_Sol/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/yuktha809/leetcode_Sol/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/yuktha809/leetcode_Sol/tree/master/0204-count-primes) |
+| [0215-kth-largest-element-in-an-array](https://github.com/yuktha809/leetcode_Sol/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/yuktha809/leetcode_Sol/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/yuktha809/leetcode_Sol/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yuktha809/leetcode_Sol/tree/master/0240-search-a-2d-matrix-ii) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/yuktha809/leetcode_Sol/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/yuktha809/leetcode_Sol/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/yuktha809/leetcode_Sol/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/yuktha809/leetcode_Sol/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yuktha809/leetcode_Sol/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/yuktha809/leetcode_Sol/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/yuktha809/leetcode_Sol/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/yuktha809/leetcode_Sol/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/yuktha809/leetcode_Sol/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/yuktha809/leetcode_Sol/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/yuktha809/leetcode_Sol/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/yuktha809/leetcode_Sol/tree/master/0451-sort-characters-by-frequency) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/yuktha809/leetcode_Sol/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/yuktha809/leetcode_Sol/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
@@ -503,4 +507,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/yuktha809/leetcode_Sol/tree/master/0173-binary-search-tree-iterator) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/yuktha809/leetcode_Sol/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
