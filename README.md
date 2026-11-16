@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/yuktha809/leetcode_Sol/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/yuktha809/leetcode_Sol/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yuktha809/leetcode_Sol/tree/master/0540-single-element-in-a-sorted-array) |
+| [0621-task-scheduler](https://github.com/yuktha809/leetcode_Sol/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/yuktha809/leetcode_Sol/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/yuktha809/leetcode_Sol/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/yuktha809/leetcode_Sol/tree/master/0875-koko-eating-bananas) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/yuktha809/leetcode_Sol/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/yuktha809/leetcode_Sol/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/yuktha809/leetcode_Sol/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/yuktha809/leetcode_Sol/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yuktha809/leetcode_Sol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/yuktha809/leetcode_Sol/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/yuktha809/leetcode_Sol/tree/master/3312-sorted-gcd-pair-queries) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/yuktha809/leetcode_Sol/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/yuktha809/leetcode_Sol/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/yuktha809/leetcode_Sol/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/yuktha809/leetcode_Sol/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yuktha809/leetcode_Sol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/yuktha809/leetcode_Sol/tree/master/1331-rank-transform-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yuktha809/leetcode_Sol/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/yuktha809/leetcode_Sol/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/yuktha809/leetcode_Sol/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/yuktha809/leetcode_Sol/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/yuktha809/leetcode_Sol/tree/master/0621-task-scheduler) |
 | [3312-sorted-gcd-pair-queries](https://github.com/yuktha809/leetcode_Sol/tree/master/3312-sorted-gcd-pair-queries) |
 ## Dynamic Programming
 |  |
@@ -271,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/yuktha809/leetcode_Sol/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/yuktha809/leetcode_Sol/tree/master/0410-split-array-largest-sum) |
+| [0621-task-scheduler](https://github.com/yuktha809/leetcode_Sol/tree/master/0621-task-scheduler) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yuktha809/leetcode_Sol/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/yuktha809/leetcode_Sol/tree/master/1903-largest-odd-number-in-string) |
 ## Monotonic Stack
@@ -297,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yuktha809/leetcode_Sol/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/yuktha809/leetcode_Sol/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/yuktha809/leetcode_Sol/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/yuktha809/leetcode_Sol/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Bucket Sort
 |  |
