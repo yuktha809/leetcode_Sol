@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/yuktha809/leetcode_Sol/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/yuktha809/leetcode_Sol/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/yuktha809/leetcode_Sol/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/yuktha809/leetcode_Sol/tree/master/0295-find-median-from-data-stream) |
 | [0876-middle-of-the-linked-list](https://github.com/yuktha809/leetcode_Sol/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yuktha809/leetcode_Sol/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yuktha809/leetcode_Sol/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/yuktha809/leetcode_Sol/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/yuktha809/leetcode_Sol/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/yuktha809/leetcode_Sol/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/yuktha809/leetcode_Sol/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/yuktha809/leetcode_Sol/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/yuktha809/leetcode_Sol/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yuktha809/leetcode_Sol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yuktha809/leetcode_Sol/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/yuktha809/leetcode_Sol/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/yuktha809/leetcode_Sol/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/yuktha809/leetcode_Sol/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/yuktha809/leetcode_Sol/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/yuktha809/leetcode_Sol/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/yuktha809/leetcode_Sol/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/yuktha809/leetcode_Sol/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/yuktha809/leetcode_Sol/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/yuktha809/leetcode_Sol/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Queue
 |  |
@@ -528,5 +532,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/yuktha809/leetcode_Sol/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/yuktha809/leetcode_Sol/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
