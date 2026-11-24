@@ -11,10 +11,10 @@ priority_queue<int,vector<int>,greater<int>> minHeap;
         maxHeap.push(num);
         minHeap.push(maxHeap.top());
         maxHeap.pop();
-        if(maxHeap.size() < minHeap.size()){
+        if(minHeap.size() > maxHeap.size()){
             maxHeap.push(minHeap.top());
             minHeap.pop();
-        }
+        }        
     }
     
     double findMedian() {
